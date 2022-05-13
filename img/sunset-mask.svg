@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+<g>
+	<defs>
+	<mask id="maskid" maskUnits="objectBoundingBox">
+
+    <path d="M1080,1080L0,1080L1080,1080ZM1080,955L0,955L0,925L1080,925L1080,955ZM1080,886L0,886L0,851L1080,851L1080,886ZM1080,821L0,821L0,781L1080,781L1080,821ZM1080,750L0,750L0,710L1080,710L1080,750ZM1080,682L0,682L0,637L1080,637L1080,682ZM1080,615L0,615L0,568L1080,568L1080,615ZM1080,548L0,548L0,496L1080,496L1080,548ZM1080,478L0,478L0,427L1080,427L1080,478ZM1080,409L1080,0L0,0L0,409L1080,409Z"/>
+	</mask>
+	</defs>
+</g>
+</svg>
